@@ -13,6 +13,10 @@
 
 theme: jekyll-agency
 
+site:
+  description: eSpartan is a business services corporation that focuses on improvement and business automatization that not only works for the accomplishments of goals of their clients by using the many years of development experience of weird dudes but also carefully handcrafting their solutions by following the latest technology trends and compromising that the quality and scope of their clients solution is the best they can get of the moment.
+  author: eSpartan Dev
+
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
