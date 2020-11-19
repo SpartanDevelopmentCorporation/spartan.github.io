@@ -56,9 +56,9 @@ contact:
 footer:
     legal: "Privacy Policy"
     social:
-      - url: https://linkedin.com
+      - url: https://www.linkedin.com/company/spartan-dev
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
+      - url: https://github.com/SpartanDevelopmentCorporation
         icon: "fab fa-github"
  
 
