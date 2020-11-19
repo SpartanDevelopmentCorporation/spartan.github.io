@@ -16,7 +16,8 @@ theme: jekyll-agency
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : eSpartan Dev
+title      : eSpartan Development Corp
+logo-title : eSpartan Dev
 email      : info@spartan.sh #this is also the email contact forms will go to
 description: "Site description"
 author     : Spartan
