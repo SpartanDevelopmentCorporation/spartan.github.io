@@ -1,23 +1,23 @@
 header:
-    title: Welcome to our Studio!
+    title: Welcome to Excelence!
     text: It's Nice To Meet You
     button: Tell Me More
     buttonlink: "#services"
 
 services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "We can help you with..."
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Consultant Services"
+        desc: "Using a scientific scope, you will find where your enhancement needs are and the alternatives you have to implement it seamlessly"
+        icon: fas fa-chalkboard-teacher #find more at https://fontawesome.com/icons
+      - title: "Solution development"
+        desc: "We automate and improve your business processes not only by using our many years experience but we DO handcraft and design your solution along with you to exceed your business needs."
         icon: fas fa-laptop       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Business Intelligence"
+        desc: "By having improved your business flows, we can help you to measure your indicators and find out new business strategies"
+        icon: fas fa-chart-pie
 
 portfolio:
     title: "Portfolio"
