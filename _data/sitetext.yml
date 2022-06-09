@@ -6,7 +6,7 @@ header:
 
 services:
     title: "Services"
-    text: "We can help you with..."
+    text: "We'll be glad to help you with..."
     section: services
     list:
       - title: "Consultant Services"
@@ -18,6 +18,9 @@ services:
       - title: "Business Intelligence"
         desc: "By having improved your business flows, we can help you to measure your indicators and find out new business strategies."
         icon: fas fa-chart-pie
+      - title: "Robot Process Automation"
+        desc: "Taking the automation to a next level, adapting RPA easily to your current systems we can improve your speed and quality in 20% at least of your business processes."
+        icon: fas fa-user-robot
 
 portfolio:
     title: "Portfolio"
